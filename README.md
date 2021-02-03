@@ -1,4 +1,4 @@
-# IBM_data_analyst_professional
+# IBM Data Analyst Professional
 
 
 
@@ -14,4 +14,28 @@ This repository mainly consists of my assignments and works submitted for Course
   -  IBM Data Analyst Capstone Project(https://www.coursera.org/learn/ibm-data-analyst-capstone-project)
   
 
+- Introduction to Data Analytics(https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
 
+This course gives you a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. before thougout the entire course. Moreover, you may also learn how Data Analyst performs that draw a clear distinction between this role to Data Scientist and Data Engineer.
+
+As the course goes on, you will:
+  * Gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.  
+  * Learn the soft skills that are required to effectively communicate your data to stakeholders, and how mastering these skills can give you the option to become a data driven decision maker.
+  * Be able to summarize the data ecosystem, such as databases and data warehouses.
+  * Uncover the major vendors within the data ecosystem and explore the various tools on-premise and in the cloud. Continue this exciting journey and discover Big Data platforms such as Hadoop, Hive, and Spark
+  * Be able to visualize the daily life of a Data Analyst, understand the different career paths that are available for data analytics, and identify the many resources available for mastering this profession.
+
+Key aspects to data analysis are:
+  * Exploring the fundamentals of gathering data
+  * Learning how to identify your data sources
+  * Learning how to clean, analyze, and share your data with the use of visualizations and dashboard tools. 
+
+This all comes together in the final project where it will test your knowledge of the course material, explore what it means to be a Data Analyst, and provide a real-world scenario of data analysis. 
+
+
+-  Excel Basics for Data Analysis(https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
+ provided in this course are:
+ 
+ 
+ 
+-  Data Visualization and Dashboards with Excel and Cognos(https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
